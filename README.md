@@ -57,7 +57,7 @@ This repository serves as a collection of my Python learning notes and practice 
 ### Contributing
 Contributions are welcome! If you have any suggestions, improvements, or additional topics to include, please feel free to open an issue or submit a pull request.
 
-###License
+### License
 This project is licensed under the MIT License.
 
 Feel free to modify this outline as you add more content and expand your 
