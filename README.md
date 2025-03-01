@@ -1,4 +1,4 @@
-```
+
 # Python Learning Notes
 
 This repository is dedicated to my journey in learning Python, with a primary focus on fundamental data structures and basic algorithms. Currently, the repository includes an in-depth study of Binary Trees, and I plan to add more topics as I progress.
@@ -62,4 +62,3 @@ This project is licensed under the MIT License.
 
 Feel free to modify this outline as you add more content and expand your 
 learning journey!
-```
